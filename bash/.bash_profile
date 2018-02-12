@@ -7,7 +7,7 @@ export PATH=$PATH:$HOME/bin
 
 export HISTCONTROL=ignorespace
 export HISTSIZE=10000
-export HISTTIMEFORMAT=%F %T
+export HISTTIMEFORMAT='%F %T'
 
 shopt -s histappend
 shopt -s checkwinsize
